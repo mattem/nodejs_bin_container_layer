@@ -1,0 +1,7 @@
+query --incompatible_disallow_load_labels_to_cross_package_boundaries=false
+build --incompatible_disallow_load_labels_to_cross_package_boundaries=false
+build --incompatible_use_python_toolchains=true
+build --incompatible_py3_is_default=true
+build --incompatible_allow_python_version_transitions=true
+build --incompatible_remove_old_python_version_api=false
+build --host_force_python=PY2

@@ -1,0 +1,10 @@
+{
+    "name": "nodejs_bin_container_later",
+    "version": "0.0.0-PLACEHODLER",
+    "private": true,
+    "dependencies": {
+        "@bazel/typescript": "0.27.10",
+        "@types/node": "12.6.8",
+        "typescript": "3.4.5"
+    }
+}
